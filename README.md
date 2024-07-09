@@ -3,7 +3,9 @@
 
 ## Overview
 
-This repository accompanies the paper titled "Analytical Approximations Closed as Desired to Special Functions." It includes the code for the cosmological functions approximations and shows their values corresponding to the original calculations.
+This repository accompanies the paper titled [Analytical approximations as close as desired to special functions](https://arxiv.org/abs/2406.11947).
+
+It includes the code for the cosmological functions approximations and shows their values corresponding to the original calculations.
 
 ## Purpose
 
